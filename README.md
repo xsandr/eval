@@ -1,4 +1,4 @@
-## Eval
+## Eval [![Rust](https://github.com/xsandr/eval/actions/workflows/rust.yaml/badge.svg)](https://github.com/xsandr/eval/actions/workflows/rust.yaml)
 
 Eval is a library for boolean expression evaluation
 
